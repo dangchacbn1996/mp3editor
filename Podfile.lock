@@ -1,0 +1,20 @@
+PODS:
+  - M13Checkbox (3.2.2)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - M13Checkbox (= 3.2.2)
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - M13Checkbox
+    - SnapKit
+
+SPEC CHECKSUMS:
+  M13Checkbox: a8c2491cfbbca10797925fd0b9154a782bf40d89
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 6e3c918e6a5523a7331c2820e4bf2fa61bf1f472
+
+COCOAPODS: 1.9.0
